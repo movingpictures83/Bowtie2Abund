@@ -1,0 +1,2 @@
+Prefix plugins/Bowtie2Abund/example
+Plugin Bowtie2Abund inputfile parameters.txt outputfile out.abundance.txt
